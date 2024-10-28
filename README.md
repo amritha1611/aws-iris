@@ -10,9 +10,13 @@ Platform used to test API:
 https://www.postman.com/
 
 to test API:
-request body:
+\n request body:
     {"x1": 7.0,"x2": 3.2,"x3": 4.7,"x4": 1.4}
+\n go to stages and copy invoke URL
 
+\n Platform used to test API:
+https://www.postman.com/
+\n create new collection. select POST method and paste the invoke URL
 output:
 {
     "prediction": 2
