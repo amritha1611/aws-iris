@@ -1,3 +1,7 @@
+
+Read about XGBoost parameters:
+https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost_hyperparameters.html
+
 Platform used to test API:
 https://www.postman.com/
 
