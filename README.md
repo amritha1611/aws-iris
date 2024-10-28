@@ -1,5 +1,5 @@
 
-Read about XGBoost parameters:
+Read about XGBoost hyperparameters:
 https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost_hyperparameters.html
 
 Platform used to test API:
